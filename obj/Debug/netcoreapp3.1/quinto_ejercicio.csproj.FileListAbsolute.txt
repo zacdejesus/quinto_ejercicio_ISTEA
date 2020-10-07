@@ -1,0 +1,12 @@
+/Users/alejandrodejesus/Desktop/ISTEA/Programacion_C/primer_parcial/quinto_ejercicio/bin/Debug/netcoreapp3.1/quinto_ejercicio.deps.json
+/Users/alejandrodejesus/Desktop/ISTEA/Programacion_C/primer_parcial/quinto_ejercicio/bin/Debug/netcoreapp3.1/quinto_ejercicio.runtimeconfig.json
+/Users/alejandrodejesus/Desktop/ISTEA/Programacion_C/primer_parcial/quinto_ejercicio/bin/Debug/netcoreapp3.1/quinto_ejercicio.runtimeconfig.dev.json
+/Users/alejandrodejesus/Desktop/ISTEA/Programacion_C/primer_parcial/quinto_ejercicio/bin/Debug/netcoreapp3.1/quinto_ejercicio.dll
+/Users/alejandrodejesus/Desktop/ISTEA/Programacion_C/primer_parcial/quinto_ejercicio/bin/Debug/netcoreapp3.1/quinto_ejercicio.pdb
+/Users/alejandrodejesus/Desktop/ISTEA/Programacion_C/primer_parcial/quinto_ejercicio/obj/Debug/netcoreapp3.1/quinto_ejercicio.csprojAssemblyReference.cache
+/Users/alejandrodejesus/Desktop/ISTEA/Programacion_C/primer_parcial/quinto_ejercicio/obj/Debug/netcoreapp3.1/quinto_ejercicio.AssemblyInfoInputs.cache
+/Users/alejandrodejesus/Desktop/ISTEA/Programacion_C/primer_parcial/quinto_ejercicio/obj/Debug/netcoreapp3.1/quinto_ejercicio.AssemblyInfo.cs
+/Users/alejandrodejesus/Desktop/ISTEA/Programacion_C/primer_parcial/quinto_ejercicio/obj/Debug/netcoreapp3.1/quinto_ejercicio.csproj.CoreCompileInputs.cache
+/Users/alejandrodejesus/Desktop/ISTEA/Programacion_C/primer_parcial/quinto_ejercicio/obj/Debug/netcoreapp3.1/quinto_ejercicio.dll
+/Users/alejandrodejesus/Desktop/ISTEA/Programacion_C/primer_parcial/quinto_ejercicio/obj/Debug/netcoreapp3.1/quinto_ejercicio.pdb
+/Users/alejandrodejesus/Desktop/ISTEA/Programacion_C/primer_parcial/quinto_ejercicio/obj/Debug/netcoreapp3.1/quinto_ejercicio.genruntimeconfig.cache
