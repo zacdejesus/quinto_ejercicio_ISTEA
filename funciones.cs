@@ -15,7 +15,7 @@ namespace quinto_ejercicio
 
             while (string.IsNullOrEmpty(datoParaValidar) || string.IsNullOrWhiteSpace(datoParaValidar))
             {
-                Console.WriteLine($"error,{mensaje} dato no correcto");
+                Console.WriteLine($"error,{mensaje} dato no correcto, por favor reingrese");
                 datoParaValidar = Console.ReadLine();
             }
 
@@ -29,7 +29,7 @@ namespace quinto_ejercicio
 
             while (!int.TryParse(Console.ReadLine(), out aux) || aux > numMax || aux < numMin)
             {
-                Console.WriteLine(" Error,no es un dato valido");
+                Console.WriteLine(" Error,no es un dato valido, por favor reingrese");
             }
 
             return aux;
@@ -52,7 +52,7 @@ namespace quinto_ejercicio
 
             while (!int.TryParse(Console.ReadLine(), out aux) )
             {
-                Console.WriteLine("Error,no es un dato valido");
+                Console.WriteLine("Error,no es un dato valido, por favor reingrese");
             }
 
             return aux;
